@@ -1,4 +1,4 @@
-# Information about the all files of the current GitHub repo
+# Information about all files of the current GitHub repo
 
 1. CodeBook.md: A markdown file that describes the variables, the data, and transformations that were performed to clean up the data downloaded from:
 
